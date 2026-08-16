@@ -23,3 +23,15 @@ select {
   background-position: right 0.7rem top 50%;
   background-size: 1.25rem auto;
 }
+
+::-webkit-scrollbar {
+  width: 0.4rem;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #e4ece9;
+}
+
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
