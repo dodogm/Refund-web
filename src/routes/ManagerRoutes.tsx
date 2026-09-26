@@ -6,7 +6,6 @@ import { AppLayout } from "../components/AppLayout";
 import { Dashboard } from "../pages/Dashbord";
 import { NotFound } from "../pages/Not-found";
 import { Refund } from "../pages/Refund";
-import { Confirm } from "../pages/Confirm";
 
 export function ManagerRoutes() {
     return (

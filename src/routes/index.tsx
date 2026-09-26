@@ -1,5 +1,4 @@
 import { BrowserRouter } from "react-router";
-import { useContext } from "react";
 
 import { useAuth } from "../hooks/useAuth";
 
