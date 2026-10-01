@@ -8,7 +8,7 @@ O **Refund Web** é a interface frontend desenvolvida em **React + TypeScript** 
 O objetivo é fornecer uma aplicação visual para que usuários possam solicitar, acompanhar e gerenciar reembolsos de forma prática.
 
 ### 🎥 Demonstração
-👉 [Visualizar Projeto no GitHub Pages ou Vercel](https://dodogm.github.io/Refund-web/)  
+👉 [Visualizar Projeto no Vercel](https://refund-web-six.vercel.app/)  
 
 <img width="3739" height="1243" alt="image" src="https://github.com/user-attachments/assets/7373d979-3140-4846-bd4d-056c670c8e3d" />
 <img width="3707" height="1204" alt="image" src="https://github.com/user-attachments/assets/5c24e7da-a208-414c-814b-e626f99f4ad7" />
